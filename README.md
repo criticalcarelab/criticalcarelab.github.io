@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # criticalcarelab's Website
+  # Critical Care Research Lab's Website
 
   Visit **[criticalcarelab.github.io](https://criticalcarelab.github.io)** 🚀
 
