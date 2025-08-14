@@ -7,7 +7,7 @@
 ## Advancing Microvascular Science for Critical Illness
 
 Welcome to the **Critical Care Research Lab**, led by **Dr. Asher Mendelson** at the **University of Manitoba**.  
-Our team is dedicated to pushing the frontiers of **microvascular physiology** and **biomedical technology** in **sepsis and critical illness**.  
+Our team is dedicated to pushing the frontiers of **microvascular physiology** and **biomedical engineering** in **sepsis and critical illness**.  
 We integrate rigorous clinical research, innovative technological development, and multidisciplinary collaboration — all with the **ultimate goal** of improving outcomes for critically ill patients.
 
 {% include section.html %}
