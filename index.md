@@ -12,7 +12,7 @@ We integrate rigorous clinical research, innovative technological development, a
 ### 🌟 Highlights
 
 - **Leadership:** Dr. Asher Mendelson, Clinician-Scientist & Assistant Professor — internationally recognized for research in sepsis, ICU monitoring, and translational critical care.
-- **Mission:** Transform ICU patient care through breakthrough science, technology, and team excellence.
+- **Mission:** Transform ICU patient care through breakthrough science, engineering, and team excellence.
 - **Collaborations:** Proud partner in **Sepsis Canada**, **Canadian Critical Care Translational Biology Group**, and national multicenter research platforms.
 - **Recent Achievements:**
   - MMSF Du Val Henson Clinical Research Professorship (2022–2025)  
