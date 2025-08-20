@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %} Team
 
-Welcome to our team page! Meet the people who make our research possible.
+# Welcome to our team page! Meet the people who make our research possible.
 
 {% include section.html %}
 
