@@ -20,40 +20,12 @@ We are committed to advancing knowledge and open science. For questions about ou
 
 {% include section.html %}
 
-## Featured Publications
+## Featured
 
-{% assign featured_pubs = site.publications | where: "group", "featured" | sort: "year" | reverse %}
-<div class="featured-publications">
-  {% for pub in featured_pubs %}
-    <div class="pub-card">
-      <h3>{{ pub.title }}</h3>
-      <p>
-        <strong>{{ pub.authors }}</strong> <br />
-        {{ pub.publication }}{% if pub.year %}, {{ pub.year }}{% endif %}{% if pub.doi %} • <a href="{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
-      </p>
-      {% if pub.summary %}
-        <p>{{ pub.summary }}</p>
-      {% endif %}
-    </div>
-  {% endfor %}
-</div>
+{% include list.html component="card" data="publications" filter="group == 'featured'" %}
 
----
+{% include section.html %}
 
-## All Publications
+## More
 
-Below is a chronological list of all lab publications.
-
-{% assign all_pubs = site.publications | sort: "year" | reverse %}
-<ul class="publication-list">
-  {% for pub in all_pubs %}
-    <li>
-      <strong>{{ pub.title }}</strong> ({{ pub.year }})<br/>
-      {{ pub.authors }}.<br />
-      <em>{{ pub.publication }}</em>
-      {% if pub.doi %}&bull; <a href="{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
-      {% if pub.pdf %}&bull; <a href="{{ pub.pdf }}" target="_blank">PDF</a>{% endif %}
-      {% if pub.data %}&bull; <a href="{{ pub.data }}" target="_blank">Data</a>{% endif %}
-    </li>
-  {% endfor %}
-</ul>
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
