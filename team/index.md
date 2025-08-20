@@ -10,21 +10,22 @@ nav:
 Welcome to our team page! Meet the people who make our research possible.
 
 {% include section.html title="Principal Investigators" %}
+
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
 {% include section.html title="Students / Post-Docs" %}
+
 {% include list.html data="members" component="portrait" filter="role == 'student' or role == 'postdoc'" %}
 
 {% include section.html title="Visiting Researchers" %}
+
 {% include list.html data="members" component="portrait" filter="role == 'visiting'" %}
 
 {% include section.html title="Staff" %}
+
 {% include list.html data="members" component="portrait" filter="role == 'staff'" %}
 
 {% include section.html %}
-
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
