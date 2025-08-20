@@ -1,5 +1,4 @@
 ---
-title: Team
 nav:
   order: 3
   tooltip: About our team
@@ -11,24 +10,24 @@ Welcome to our team page! Meet the people who make our research possible.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+## Principal Investigator
 
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+## Visiting Scientists
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include list.html data="members" component="portrait" filter="role == 'visiting_scientist'" %}
+
+## Postdoctoral Fellows and Students
+
+{% include list.html data="members" component="portrait" filter="role == 'student' or role == 'postdoc'" %}
+
+## Staff
+
+{% include list.html data="members" component="portrait" filter="role == 'staff'" %}
+
+## Alumni
+
+{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
 
 {% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
