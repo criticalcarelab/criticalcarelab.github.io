@@ -5,19 +5,14 @@
 
 Welcome to the **Critical Care Research Lab**, led by **Dr. Asher Mendelson** at the **University of Manitoba**.  
 Our team is dedicated to pushing the frontiers of **microvascular physiology** and **biomedical engineering** in **sepsis and critical illness**.  
-We integrate rigorous clinical research, innovative technological development, and multidisciplinary collaboration — all with the **ultimate goal** of improving outcomes for critically ill patients.
+We integrate rigorous clinical research, innovative technological development, personalized care approaches, and multidisciplinary collaboration—all with the ultimate goal of improving outcomes for critically ill patients.
 
 {% include section.html %}
 
 ### 🌟 Highlights
 
-- **Leadership:** Dr. Asher Mendelson, Clinician-Scientist & Assistant Professor — internationally recognized for research in sepsis, ICU monitoring, and translational critical care.
 - **Mission:** Transform ICU patient care through breakthrough science, engineering, and team excellence.
 - **Collaborations:** Proud partner in **Sepsis Canada**, **Canadian Critical Care Translational Biology Group**, and national multicenter research platforms.
-- **Recent Achievements:**
-  - MMSF Du Val Henson Clinical Research Professorship (2022–2025)  
-  - Publications in leading critical care and physiology journals  
-  - Cutting-edge work in biomedical optics & signals analysis
 
 {% capture text %}
 
