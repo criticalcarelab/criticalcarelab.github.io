@@ -20,12 +20,11 @@ We are committed to advancing knowledge and open science. For questions about ou
 
 {% include section.html %}
 
-## Featured
+## All Publications
 
-{% include list.html component="card" data="publications" filter="group == 'featured'" %}
+Below is a chronological list of all lab publications.
+
+{% include list.html component="card" data="publications"%}
 
 {% include section.html %}
 
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
