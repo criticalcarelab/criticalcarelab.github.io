@@ -14,6 +14,14 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+msc:
+  icon: fa-solid fa-graduation-cap
+  description: MSc Student
+
+md:
+  icon: fa-solid fa-graduation-cap
+  description: MD Student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
@@ -21,6 +29,10 @@ undergrad:
 programmer:
   icon: fa-solid fa-code
   description: Programmer
+
+staff:
+  icon: fa-solid fa-user-group
+  description: Staff
 
 mascot:
   icon: fa-solid fa-dog
@@ -125,6 +137,19 @@ linkedin:
   text: LinkedIn
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
+
+researchgate:
+  icon: fa-brands fa-researchgate
+  text: ResearchGate
+  tooltip: ResearchGate
+  link: https://www.researchgate.net/$VALUE
+
+Medium:
+  icon: fa-brands fa-medium
+  text: Medium
+  tooltip: Medium
+  link: https://$VALUE.medium.com/
+
 
 # alerts
 

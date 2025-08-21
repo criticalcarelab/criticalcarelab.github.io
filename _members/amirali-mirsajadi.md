@@ -1,13 +1,13 @@
 ---
 name: Amirali Mirsajadi
 image: images/team_img/amirali.jpeg
-role: student
+role: msc
 affiliation: Price Faculty of Engineering, University of Manitoba
 aliases:
 links:
   orcid: XXX-XXX-XXXX
-  linkedin: https://www.linkedin.com/in/amirali-mirsajadi/?originalSubdomain=ca
-  google-scholar: https://scholar.google.com/citations?user=amirali-mirsajadi 
+  linkedin: amirali-mirsajadi/?originalSubdomain=ca
+  google-scholar: amirali-mirsajadi 
 
 ---
 

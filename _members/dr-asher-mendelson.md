@@ -11,10 +11,10 @@ aliases:
 links:
   home-page: https://umanitoba.ca/medicine/faculty-staff/asher-mendelson
   orcid: 0000-0003-2108-4752
-  google-scholar: https://scholar.google.com/citations?user=LzC6g6YAAAAJ&hl=en
-  twitter: https://x.com/AsherMendelson
-  linkedin: https://www.linkedin.com/in/asher-mendelson-b23b386a/?originalSubdomain=ca
-  researchgate: https://www.researchgate.net/profile/Asher-Mendelson
+  google-scholar: LzC6g6YAAAAJ&hl
+  twitter: AsherMendelson
+  linkedin: asher-mendelson-b23b386a/?originalSubdomain=ca
+  researchgate: Asher-Mendelson
 ---
 
 ## Research summary
