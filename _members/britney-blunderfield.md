@@ -1,3 +1,4 @@
+---
 name: Britney Blunderfield
 image: images/team_img/britney.jpg
 role: msc
