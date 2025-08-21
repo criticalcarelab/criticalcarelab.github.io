@@ -1,8 +1,8 @@
 ---
 name: Isuru Sachitha Herath
-image: images/team_img/isuru.jpg
-role: principal-investigator
-affiliation: University of Manitoba
+image: images/team_img/isuru.jpeg
+role: student
+affiliation: Price Faculty of Engineering, University of Manitoba
 aliases:
 links:
   orcid: 0000-0002-3762-8374
