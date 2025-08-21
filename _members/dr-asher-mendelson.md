@@ -11,11 +11,18 @@ aliases:
 links:
   home-page: https://umanitoba.ca/medicine/faculty-staff/asher-mendelson
   orcid: 0000-0003-2108-4752
-  researchgate: https://www.researchgate.net/profile/Asher-Mendelson
   google-scholar: https://scholar.google.com/citations?user=LzC6g6YAAAAJ&hl=en
   twitter: https://x.com/AsherMendelson
   linkedin: https://www.linkedin.com/in/asher-mendelson-b23b386a/?originalSubdomain=ca
+  researchgate: https://www.researchgate.net/profile/Asher-Mendelson
 ---
+
+## Research summary
+
+Dr. Mendelson's research centers on improving patient outcomes in critical care by exploring the microvascular physiology of sepsis. He aims to bridge the gap between the clinic and the laboratory by combining advanced biomedical optics and signals analysis with small animal models to gain a deeper understanding of sepsis pathogenesis. With a focus on diagnosing and treating cardiovascular failure in the intensive care unit (ICU), Dr. Mendelson uses near-infrared spectroscopy to monitor microcirculation and diagnose sepsis.
+
+As a co-lead of the National Preclinical Sepsis Platform and active member of the Canadian Critical Care Translational Biology Group, Dr. Mendelson is working to design and implement a pan-Canadian multi-center preclinical trial to test new therapies for sepsis. He believes that by enhancing the exchange of knowledge between basic scientists and clinicians, the medical community can make significant strides in improving patient outcomes in critical care.
+
 
 ## Biography
 
@@ -25,9 +32,7 @@ Dr. Mendelson is an accomplished clinician-scientist, specializing in critical c
 
 Dr. Mendelson continued his training at Western University, completing fellowship training in critical care, and later received his PhD in medical biophysics, focusing on applied microvascular physiology and oxygen delivery in sepsis.
 
-Now at the forefront of research in microvascular physiology and sepsis in critical care, Dr. Mendelson utilizes advanced biomedical optics and signal analysis to diagnose and treat cardiovascular failure in the ICU, and uses small animal models to study sepsis pathogenesis. He is the co-lead of the National Preclinical Sepsis Platform and an active member of several Canadian research networks in critical care.
-
-When he's not at work in the lab and clinic, Dr. Mendelson enjoys cooking, hiking, traveling with his wife Rachel, and playing with his cats, Leo and Sterling.
+Dr. Mendelson is now working at the forefront of research in microvascular physiology and sepsis in critical care. He utilizes advanced biomedical optics and signals analysis to diagnose and treat cardiovascular failure in the intensive care unit (ICU), and uses small animal models in the lab to understand the mechanisms involved in sepsis pathogenesis. As the co-lead of the National Preclinical Sepsis Platform and an active member of several Canadian research networks in critical care, Dr. Mendelson is committed to improving patient outcomes through the bi-directional exchange of knowledge between clinicians and basic scientists.When he's not dedicating himself to his work in the lab and clinic, Dr. Mendelson enjoys cooking, hiking, traveling with his wife, Rachel, and playing with his cats, Leo and Sterling.
 
 {% capture col1 %}
 ### Education
