@@ -144,12 +144,6 @@ researchgate:
   tooltip: ResearchGate
   link: https://www.researchgate.net/$VALUE
 
-Medium:
-  icon: fa-brands fa-medium
-  text: Medium
-  tooltip: Medium
-  link: https://$VALUE.medium.com/
-
 
 # alerts
 
