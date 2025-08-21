@@ -17,11 +17,11 @@ nav:
 
 ## Visiting Scientists
 
-{% include list.html data="members" component="portrait" filter="role == 'visiting_scientist'" %}
+{% include list.html data="members" component="portrait" filter="role == 'visiting-scientist'" %}
 
 ## Postdoctoral Fellows and Students
 
-{% include list.html data="members" component="portrait" filter="role == 'msc' or role == 'postdoc'" or role == 'phd'" or role == 'md'"  or role == 'undergrad'" %}
+{% include list.html data="members" component="portrait" filter="role == 'student' or role == 'postdoc'" %}
 
 ## Staff
 
