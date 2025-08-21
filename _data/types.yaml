@@ -146,14 +146,14 @@ researchgate:
   icon: fa-brands fa-researchgate
   text: ResearchGate
   tooltip: ResearchGate
-  link: https://www.researchgate.net/$VALUE
+  link: https://www.researchgate.net/profile/$VALUE
 
 medium:
   icon: fa-brands fa-medium
   text: Medium
   tooltip: Medium
   link: https://$VALUE.medium.com
-  
+
 # alerts
 
 tip:
