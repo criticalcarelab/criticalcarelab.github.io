@@ -21,7 +21,7 @@ nav:
 
 ## Postdoctoral Fellows and Students
 
-{% include list.html data="members" component="portrait" filter="role == 'student' or role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'msc' or role == 'postdoc' or role == 'phd' or role == 'md' or role == 'undergrad'" %}
 
 ## Staff
 
