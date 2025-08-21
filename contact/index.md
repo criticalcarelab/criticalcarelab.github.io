@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-## Dr. Asher Mendelson
+## Dr. Asher Mendelson, MD, PhD, FRCPC
 
 Associate Professor, Department of Anesthesia and Perioperative Medicine  
 University of Manitoba  
