@@ -7,14 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This page showcases the research happening in our Critical Care Research Lab—both projects currently in progress and studies we have already completed.
+
+Everything we do is driven by one goal: to improve care for patients in intensive care units. Our team studies important questions about how critical illnesses develop, how treatments can be made more effective, and how the care provided in ICUs can lead to better outcomes for patients and families.
+
+We’re excited to share updates as our projects move forward, and we’re proud of the discoveries we’ve made so far. This page will continue to grow as we break new ground, publish findings, and explore new directions in critical care research.
 
 {% include section.html %}
 
-## Highlighted
+## Highlighted 
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
 

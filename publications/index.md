@@ -26,5 +26,7 @@ Below is a chronological list of all lab publications.
 
 {% include list.html component="card" data="publications"%}
 
+{% include list.html data="citations" component="citation" style="rich" %}
+
 {% include section.html %}
 
