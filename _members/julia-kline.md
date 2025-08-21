@@ -5,9 +5,6 @@ role: msc
 affiliation: Department of Physiology & Pathophysiology, University of Manitoba
 aliases:
 links:
-  orcid: 0000-0XXX-XXXX-XXXX
-  google-scholar: xxx
-  linkedin: xxxx
 
 ---
 

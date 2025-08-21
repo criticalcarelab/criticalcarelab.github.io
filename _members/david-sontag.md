@@ -1,11 +1,10 @@
 ---
 name: Dr. David Sontag
-image: images/team_img/raju.jpg
+image: images/team_img/dr_david.jpg
 role: staff
 affiliation: Max Rady College of Medicine, University of Manitoba
 aliases:
 links:
-  orcid: 0000-0XXX-XXXX-XXXX
   researchgate: David-Sontag
   linkedin: david-sontag-1654a05a/?originalSubdomain=ca
 

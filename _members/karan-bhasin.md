@@ -5,9 +5,7 @@ role: md
 affiliation: Max Rady College of Medicine, University of Manitoba
 aliases:
 links:
-  orcid: 0000-0XXX-XXXX-XXXX
-  google-scholar: xxx
-  linkedin: xxxx
+
 
 ---
 
