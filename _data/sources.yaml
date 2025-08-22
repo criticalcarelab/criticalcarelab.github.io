@@ -1,6 +1,6 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- id: doi:10.1007/s10877-020-00611-x
+  type: journal
+  description: Dynamic tracking of microvascular hemoglobin content for continuous perfusion monitoring in the intensive care unit pilot feasibility study.
   date: 2020-12-4
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
