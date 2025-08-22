@@ -11,20 +11,17 @@ Welcome to the Critical Care Research Lab’s publications page. Here you’ll f
 
 We are committed to advancing knowledge and open science. For questions about our research or collaboration opportunities, please reach out through our [faculty contact page](https://umanitoba.ca/medicine/faculty-staff/asher-mendelson).
 
-{% include tags.html tags="publications, journal papers, conferences, abstracts, datasets, software" %}
+{% include tags.html tags="journal, book, paper, article, preprint, abstract, source, data, package, app, docs" %}
 
 ## Search & Filter
 
 {% include search-info.html %}
-
 
 {% include section.html %}
 
 ## All Publications
 
 Below is a chronological list of all lab publications.
-
-{% include list.html component="card" data="publications"%}
 
 {% include list.html data="citations" component="citation" style="rich" %}
 

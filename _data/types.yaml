@@ -202,6 +202,11 @@ journal:
   text: Journal
   tooltip: Journal
 
+abstract:
+  icon: fa-regular fa-newspaper
+  text: Abstract
+  tooltip: Abstract
+
 preprint:
   icon: fa-regular fa-eye
   text: Preprint
