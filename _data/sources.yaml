@@ -1,5 +1,5 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
+- id: doi:10.1007/s10877-020-00611-x
+  type: journal
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   date: 2020-12-4
   buttons:
