@@ -1,46 +1,29 @@
 - title: Microvascular monitoring in the ICU using high-resolution near-infrared spectroscopy
-  subtitle: a subtitle
-  group: featured
+  subtitle: 
+  group: ongoing
   image: images/photo.jpg
   link: https://mspace.lib.umanitoba.ca/items/06f6d222-097a-422a-834b-b1a4aeadf832
-  description: This Master’s thesis by Amirali Mirsajadi investigates advanced monitoring of circulatory shock using high‑resolution near‑infrared spectroscopy (hr‑NIRS). The work demonstrates that skeletal muscle signals can be used to derive individualized optimal blood pressure (MAPopt), and that wavelet analysis of NIRS signals can quantify microvascular power—showing impaired microvascular function in critically ill patients, especially those on vasopressors. These methods may improve personalized hemodynamic management in intensive care.
+  description: This Master’s thesis by Amirali Mirsajadi investigates advanced monitoring of circulatory shock using high‑resolution near‑infrared spectroscopy (hr‑NIRS) and Wavelet analysis. 
   tags:
     - microvascular autoregulation
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: Evaluating physiological coherence of microvascular hemodynamics between brain and skeletal muscle using high-resolution near-infrared spectroscopy
+  subtitle: 
+  group: ongoing
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://mspace.lib.umanitoba.ca/items/9fcb15bd-300f-4c34-88c7-c7b98661b4e5
+  description: This Master’s thesis by Isuru Herath introduces a novel wavelet-based framework using hr‑NIRS to assess physiological coherence between brain and skeletal muscle microcirculation and with systemic blood pressure.  
   tags:
-    - resource
+     - Biomedical Signal Processing
+     - Microvascular Hemodynamics
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Cool test
+  subtitle:
+  group: completed
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
-    - resource
+    - test
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
