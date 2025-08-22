@@ -1,13 +1,13 @@
 - id: doi:10.1007/s10877-020-00611-x
-  type: journal
+  type: paper
   description: Dynamic tracking of microvascular hemoglobin content for continuous perfusion monitoring in the intensive care unit pilot feasibility study.
   date: 2020-10-26
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
     - type: source
       text: Manuscript Source
-      link: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+      link: https://pubmed.ncbi.nlm.nih.gov/33104968/
   tags:
     - open science
     - collaboration
-  repo: greenelab/meta-review
+  repo: 33104968
