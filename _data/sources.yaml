@@ -1,13 +1,2 @@
 - id: doi:10.1007/s10877-020-00611-x
-  type: journal
-  date: 2020-10-26
-  description: Dynamic tracking of microvascular hemoglobin content for continuous perfusion monitoring in the intensive care unit pilot feasibility study.
-  image: https://media-springernature-com.uml.idm.oclc.org/w316/springer-static/cover-hires/journal/10877?as=webp
-  buttons:
-    - type: source
-      text: Manuscript Source
-      link: https://pubmed.ncbi.nlm.nih.gov/33104968/
-  tags:
-    - Critical care
-    - Microcirculation
-    - Near-infrared spectroscopy
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
