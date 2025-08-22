@@ -19,7 +19,7 @@ We integrate rigorous clinical research, innovative technological development, p
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are driven by curiosity and the pursuit of new knowledge. Our research explores cutting‑edge ideas across multiple disciplines, combining innovation, collaboration, and real‑world impact. By leveraging both fundamental theory and applied methods, we aim to address some of today’s most pressing challenges while shaping the solutions of tomorrow.
 
 {%
   include button.html
@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Sharing knowledge is at the heart of what we do. Our publications include peer‑reviewed articles, conference papers, and collaborative reports that contribute to advancing global research conversations. We are committed to making our findings accessible and useful for academics, professionals, and the wider community.
 
 {%
   include button.html
@@ -67,7 +67,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Behind every project is a community of passionate researchers, students, and partners. Our team brings together diverse expertise and perspectives, united by a commitment to discovery and impact. We believe in fostering an inclusive environment where collaboration drives innovation and learning never stops.
+
 
 {%
   include button.html
