@@ -1,50 +1,23 @@
-- id: doi:10.1007/s10877-020-00611-x
-  type: journal
-  date: 2020-10-26
-  description: Dynamic tracking of microvascular hemoglobin content for continuous perfusion monitoring in the intensive care unit pilot feasibility study.
-  image: https://media-springernature-com.uml.idm.oclc.org/w316/springer-static/cover-hires/journal/10877?as=webp
+- id: doi:10.1371/journal.pcbi.1007128
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  date: 2020-12-4
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
     - type: source
       text: Manuscript Source
-      link: https://pubmed.ncbi.nlm.nih.gov/33104968/
+      link: https://github.com/greenelab/meta-review
+    - type: website
+      link: http://manubot.org/
   tags:
-    - Critical care
-    - Microcirculation
-    - Near-infrared spectroscopy
+    - open science
+    - collaboration
+  repo: greenelab/meta-review
 
-- id: 10.3389/fphys.2023.1170429
-  type: journal
-  date: 2023-05-09
-  description: The role of the microcirculation and integrative cardiovascular physiology in the pathogenesis of ICU-acquired weakness.
-  buttons:
-    - type: source
-      text: Manuscript Source
-      link: https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1170429/full
-  tags:
-    - Critical care
-    - Microcirculation
+- id: doi:10.1016/j.csbj.2020.05.017
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.1113/JP282342
-  type: journal
-  date: 2022-01-23
-  description: Capillary module haemodynamics and mechanisms of blood flow regulation in skeletal muscle capillary networks: Experimental and computational analysis.
-  buttons:
-    - type: source
-      text: Manuscript Source
-      link: https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/JP282342
-  tags:
-    - Microcirculation
-  
-- id: doi:10.1097/CCE.0000000000001111
-  type: journal
-  date: 2024-08-11
-  description: Microvascular Autoregulation in Skeletal Muscle Using Near-Infrared Spectroscopy and Derivation of Optimal Mean Arterial Pressure in the ICU: Pilot Study and Comparison With Cerebral Near-Infrared Spectroscopy.
-  buttons:
-    - type: source
-      text: Manuscript Source
-      link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11196085/
-  tags:
-    - Critical care
-    - Microcirculation
-    - near-infrared spectroscopy
-
+- id: doi:10.7554/eLife.32822
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
