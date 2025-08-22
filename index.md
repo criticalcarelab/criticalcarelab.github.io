@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/research_projects.jpg"
+  image="images/research_projetcs.png"
   link="research"
   title="Our Research"
   text=text
