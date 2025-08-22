@@ -1,20 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1007/s10877-020-00611-x
-  title: 'Dynamic tracking of microvascular hemoglobin content for continuous perfusion
-    monitoring in the intensive care unit: pilot feasibility study'
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
   authors:
-  - Asher A. Mendelson
-  - Ajay Rajaram
-  - Daniel Bainbridge
-  - Keith St. Lawrence
-  - Tracey Bentall
-  - Michael Sharpe
-  - Mamadou Diop
-  - Christopher G. Ellis
-  publisher: Journal of Clinical Monitoring and Computing
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
   date: '2020-12-04'
-  link: https://doi.org/g9xtjb
+  link: https://doi.org/c7np
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -22,6 +20,6 @@
   tags:
   - open science
   - collaboration
-  repo: null
+  repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
