@@ -18,3 +18,44 @@
   type: journal
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1113/JP282342
+  title: 'Capillary module haemodynamics and mechanisms of blood flow regulation in
+    skeletal muscle capillary networks: Experimental and computational analysis'
+  authors:
+  - Asher A. Mendelson
+  - Edward Ho
+  - Shayla Scott
+  - Raashi Vijay
+  - Timothy Hunter
+  - Stephanie Milkovich
+  - Christopher G. Ellis
+  - Daniel Goldman
+  publisher: The Journal of Physiology
+  date: '2022-02-22'
+  link: https://doi.org/g9xth4
+  type: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1097/CCE.0000000000001111
+  title: 'Microvascular Autoregulation in Skeletal Muscle Using Near-Infrared Spectroscopy
+    and Derivation of Optimal Mean Arterial Pressure in the ICU: Pilot Study and Comparison
+    With Cerebral Near-Infrared Spectroscopy'
+  authors:
+  - Amirali Mirsajadi
+  - Dustin Erickson
+  - Soumya Alias
+  - Logan Froese
+  - Amanjyot Singh Sainbhi
+  - Alwyn Gomez
+  - Raju Majumdar
+  - Isuru Herath
+  - Maggie Wilson
+  - Ryan Zarychanski
+  - Frederick A. Zeiler
+  - Asher A. Mendelson
+  publisher: Critical Care Explorations
+  date: '2024-06-21'
+  link: https://doi.org/g9hpvx
+  type: journal
+  plugin: sources.py
+  file: sources.yaml
