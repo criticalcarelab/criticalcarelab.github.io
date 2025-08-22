@@ -24,6 +24,5 @@
   tags:
   - open science
   - collaboration
-  repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
