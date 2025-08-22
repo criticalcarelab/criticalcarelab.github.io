@@ -17,11 +17,11 @@ We’re excited to share updates as our projects move forward, and we’re proud
 
 ## Ongoing Research Projects
 
-{% include list.html component="card" data="reserch_projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="reserch_projects" filter="group == 'ongoing'" %}
 
 {% include section.html %}
 
 ## Completed Research Projects
 
-{% include list.html component="card" data="reserch_projects" filter="!group" style="small" %}
+{% include list.html component="card" data="reserch_projects" filter="group == 'completed'" %}
 
