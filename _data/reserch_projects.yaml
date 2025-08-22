@@ -3,16 +3,17 @@
   group: ongoing
   image: images/photo.jpg
   link: https://mspace.lib.umanitoba.ca/items/06f6d222-097a-422a-834b-b1a4aeadf832
-  description: This Master’s thesis by Amirali Mirsajadi investigates advanced monitoring of circulatory shock using high‑resolution near‑infrared spectroscopy (hr‑NIRS) and Wavelet analysis. 
+  description: This study investigates advanced monitoring of circulatory shock using high‑resolution near‑infrared spectroscopy (hr‑NIRS) and Wavelet analysis. 
   tags:
-    - microvascular autoregulation
+    - Microvascular Autoregulation
+    - Wavelet Analysis
 
 - title: Evaluating physiological coherence of microvascular hemodynamics between brain and skeletal muscle using high-resolution near-infrared spectroscopy
   subtitle: 
   group: ongoing
   image: images/photo.jpg
   link: https://mspace.lib.umanitoba.ca/items/9fcb15bd-300f-4c34-88c7-c7b98661b4e5
-  description: This Master’s thesis by Isuru Herath introduces a novel wavelet-based framework using hr‑NIRS to assess physiological coherence between brain and skeletal muscle microcirculation and with systemic blood pressure.  
+  description: This study introduces a novel wavelet-based framework using hr‑NIRS to assess physiological coherence between brain and skeletal muscle microcirculation and with systemic blood pressure.  
   tags:
      - Biomedical Signal Processing
      - Microvascular Hemodynamics
