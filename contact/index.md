@@ -9,7 +9,7 @@ nav:
 
 ## Dr. Asher Mendelson, MD, PhD, FRCPC
 
-Associate Professor, Department of Anesthesia and Perioperative Medicine  
+Assistant Professor, Department of Anesthesia and Perioperative Medicine  
 University of Manitoba  
 Email: asher.mendelson@umanitoba.ca  
 Phone: +1-204-272-3121 ext. 1234  
