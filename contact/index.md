@@ -9,11 +9,15 @@ nav:
 
 ## Dr. Asher Mendelson, MD, PhD, FRCPC
 
-Assistant Professor, Department of Anesthesia and Perioperative Medicine  
-University of Manitoba  
+Assistant Professor, Max Rady College of Medicine
+Internal Medicine
+Section: Critical Care Medicine
+University of Manitoba
 Email: asher.mendelson@umanitoba.ca  
-Phone: +1-204-272-3121 ext. 1234  
-Office: Room 663M, Medical Services Building  
+Phone: 204-787-1634
+Office: GF-234 – 820 Sherbrook Street
+Health Sciences Centre Winnipeg
+Winnipeg, Manitoba R3A 1R9
 [Profile & Research](https://umanitoba.ca/medicine/faculty-staff/asher-mendelson)
 
 {%
@@ -25,13 +29,13 @@ Office: Room 663M, Medical Services Building
 {%
   include button.html
   type="phone"
-  text="+1-204-272-3121 ext. 1234"
-  link="tel:+12042723121"
+  text="+1-204-787-1634"
+  link="tel:+12047871634"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Medical Services Building, University of Manitoba"
+  tooltip="820 Sherbrook Street, Health Sciences Centre Winnipeg, Winnipeg, Manitoba R3A 1R9"
   link="https://www.google.com/maps/place/Medical+Services+Building,+University+of+Manitoba"
 %}
 
