@@ -9,14 +9,18 @@ nav:
 
 ## Dr. Asher Mendelson, MD, PhD, FRCPC
 
-Assistant Professor
-Section of Critical Care Medicine  
+Assistant Professor  
+Section of Critical Care Medicine 
 Department of Internal Medicine  
 Max Rady College of Medicine  
-University of Manitoba.
+University of Manitoba
 
-✉️ Email: asher.mendelson@umanitoba.ca  
-📞 Phone: 204‑787‑1634 
+---
+
+### Contact Information
+
+✉️ Email: [asher.mendelson@umanitoba.ca](mailto:asher.mendelson@umanitoba.ca)  
+📞 Phone: 204‑787‑1634  
 
 📍 Office: GF-234, 820 Sherbrook Street  
 Health Sciences Centre Winnipeg  
