@@ -18,19 +18,6 @@
   type: journal
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.3389/fphys.2023.1170429
-  title: The role of the microcirculation and integrative cardiovascular physiology
-    in the pathogenesis of ICU-acquired weakness
-  authors:
-  - Asher A. Mendelson
-  - Dustin Erickson
-  - Rodrigo Villar
-  publisher: Frontiers in Physiology
-  date: '2023-05-10'
-  link: https://doi.org/g9xvd3
-  type: journal
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1113/JP282342
   title: 'Capillary module haemodynamics and mechanisms of blood flow regulation in
     skeletal muscle capillary networks: Experimental and computational analysis'
@@ -69,6 +56,34 @@
   publisher: Critical Care Explorations
   date: '2024-06-21'
   link: https://doi.org/g9hpvx
+  type: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1113/EP092337
+  title: "Development of a standardized single\u2010session cardiopulmonary exercise\
+    \ test for combined assessment of peak oxygen uptake and on/off\u2010kinetics"
+  authors:
+  - Jefferson L. Santana
+  - Till Enzner
+  - Britney Blunderfield
+  - Asher A. Mendelson
+  - Rodrigo Villar
+  publisher: Experimental Physiology
+  date: '2025-03-20'
+  link: https://doi.org/g9xzm4
+  type: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fphys.2023.1170429
+  title: The role of the microcirculation and integrative cardiovascular physiology
+    in the pathogenesis of ICU-acquired weakness
+  authors:
+  - Asher A. Mendelson
+  - Dustin Erickson
+  - Rodrigo Villar
+  publisher: Frontiers in Physiology
+  date: '2023-05-10'
+  link: https://doi.org/g9xvd3
   type: journal
   plugin: sources.py
   file: sources.yaml
