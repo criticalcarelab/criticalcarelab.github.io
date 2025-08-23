@@ -9,12 +9,11 @@ nav:
 
 ## Dr. Asher Mendelson, MD, PhD, FRCPC
 
-Assistant Professor  
-Section of Critical Care Medicine
-
-Department of Internal Medicine  
-Max Rady College of Medicine  
-University of Manitoba
+Assistant Professor\  
+Section of Critical Care Medicine\
+Department of Internal Medicine\  
+Max Rady College of Medicine\  
+University of Manitoba.\
 
 ---
 
