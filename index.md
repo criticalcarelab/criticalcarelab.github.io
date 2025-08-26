@@ -7,7 +7,7 @@ Welcome to the **Critical Care Research Lab**, led by **Dr. Asher Mendelson, MD,
 Our team is dedicated to pushing the frontiers of **microvascular physiology** and **biomedical engineering** in **sepsis and critical illness**.  
 We integrate rigorous clinical research, innovative technological development, personalized care approaches, and multidisciplinary collaboration—all with the ultimate goal of improving outcomes for critically ill patients.
 
-![plain image](/images/Mendelson_Lab.png)
+![plain image](images/Mendelson Lab.jpg)
 
 
 {% include section.html %}

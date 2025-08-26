@@ -1,6 +1,6 @@
 ---
 name: Karan Bhasin
-image: images/photo.jpg
+image: images/team_img/karan.jpeg
 role: md
 affiliation: Max Rady College of Medicine, University of Manitoba
 aliases:
